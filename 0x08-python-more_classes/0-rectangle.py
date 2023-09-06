@@ -2,4 +2,6 @@
 
 
 class Rectangle():
+    """empty rectangle class for use
+    """
     pass
